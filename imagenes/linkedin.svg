@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Linkedin</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Organization-Public-Product-Copy" transform="translate(-771.000000, -2059.000000)">
+            <g id="Footer" transform="translate(0.000000, 1997.000000)">
+                <g id="Social" transform="translate(636.000000, 62.000000)">
+                    <g id="Linkedin" transform="translate(135.000000, 0.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="33" height="33"></rect>
+                        <circle id="Oval" stroke="#9B9B9B" stroke-width="2" cx="16.5" cy="16.5" r="15.5"></circle>
+                        <g id="linkedin" transform="translate(9.625000, 9.625000)" fill="#9B9B9B">
+                            <path d="M9.94434002,4.77631579 C12.5822264,4.77631579 14.7206558,6.91474521 14.7206558,9.55263158 L14.7206558,15.125 L11.5364453,15.125 L11.5364453,9.55263158 C11.5364453,8.67333612 10.8236355,7.96052632 9.94434002,7.96052632 C9.06504456,7.96052632 8.35223475,8.67333612 8.35223475,9.55263158 L8.35223475,15.125 L5.16802423,15.125 L5.16802423,9.55263158 C5.16802423,6.91474521 7.30645365,4.77631579 9.94434002,4.77631579 Z" id="Path"></path>
+                            <rect id="Rectangle" x="3.19849967e-14" y="5.57236842" width="3.18421053" height="9.55263158"></rect>
+                            <circle id="Oval" cx="1.59210526" cy="1.59210526" r="1.59210526"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
