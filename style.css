@@ -8,7 +8,7 @@ body {
 
 header {
     width: 100%;
-    background-color:white;
+    background-color: white;
     height: 55px;
     display: flex;
     justify-content: center;
@@ -145,7 +145,7 @@ header {
     justify-content: center;
 }
 
-.search_input{
+.search_input {
     border: transparent;
     height: 95%;
     width: 100%;
@@ -170,9 +170,6 @@ header {
     height: 24px;
 }
 
-
-
-
 footer {
     background-color: #F3F3F3;
     width: 100%;
@@ -183,63 +180,63 @@ footer {
 }
 
 .div_footer {
-    background-color: hotpink;
     height: 100%;
-    width: 65%;
+    width: 85%;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-.div_footer .child_div_footer{
-    background-color: blueviolet;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 80%;
-}
 
-.policy {
-    background-color: greenyellow;
-    width: 25%;
+.div_footer .child_div_footer {
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    height: 50%;
 }
 
 #privacy_policy {
     text-decoration: none;
     font-size: 14px;
-    color: #4A4A4A;
+    color: #878787;
     font-family: Arial, Helvetica, sans-serif;
 }
-#privacy_policy::after{
+
+#privacy_policy::after {
     content: " | ";
     margin: 0 10px;
 }
+
 #terms_of {
     text-decoration: none;
     font-size: 14px;
-    color: #4A4A4A;
+    color: #878787;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .social_media {
-    background-color: greenyellow;
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+    justify-content: space-around;
+    width: 16%;
 }
 
 .rights {
-    background-color: greenyellow;
-    display: flex;
+    height: 100%;
     flex-direction: column;
-    justify-items: space-around;
+    display: flex;
+    justify-content: center;
 }
 
-.logo_rights {
-
-    width: 100%;
+#logo_footer {
+    margin-bottom: 0;
 }
-
 
 #text_footer {
-    font-size: 0.7rem;
+    font-size: 12px;
     color: #878787;
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-wrap: wrap;
 }
